@@ -46,15 +46,19 @@ I enjoy learning new skills and technologies, and I am always eager to take on n
 <code><img height="50" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png"></code>
 </br>
 **Tools**
 </br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/V/visual-studio-2015-logo-31D5DD049E-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png"></code>
 <br/>
+**Internet of things(IoT)**
+<br/>
+<code><img height="50" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png"></code>
 <br/>
 **Certifications**
 <br/>
