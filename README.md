@@ -54,7 +54,6 @@ I enjoy learning new skills and technologies, and I am always eager to take on n
 <code><img height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/V/visual-studio-2015-logo-31D5DD049E-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png"></code>
-<code><img height="50" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></code>
 <br/>
 <br/>
 **Certifications**
