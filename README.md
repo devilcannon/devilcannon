@@ -1,4 +1,4 @@
-## Hello World 👋 This is [Jesus!](https://sakigo9.github.io/MyPortfolio/)
+## Hello World 👋
 <br/>
 
 <a href="https://www.linkedin.com/in/algoritmonavarro/">
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Jesus🙌, a software engineer with six years of experience in developing web applications using .NET technologies and Angular. 
+Hi, I'm Jesus🙌, a software engineer with six years of experience in developing web and native applications using .NET technologies and Angular. 
 I currently work as a full-stack developer at @Jabil, where I design, code, test, and deploy software solutions that meet the needs and expectations of my clients. 
 I enjoy learning new skills and technologies, and I am always eager to take on new challenges and solve complex problems.
 
